@@ -1,85 +1,50 @@
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=你好+%F0%9F%91%8B%2C+我是+[你的名字];全栈开发者;开源爱好者;5年以上经验" />
-  </a>
-</h1>
-
 <p align="center">
-  <a href="https://juejin.cn/user/yourID">
-    <img src="https://img.shields.io/badge/掘金-1E80FF?style=for-the-badge&logo=hexo&logoColor=white" />
-  </a>
-  <a href="https://blog.yourdomain.com">
-    <img src="https://img.shields.io/badge/技术博客-4FC08D?style=for-the-badge&logo=ghost&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@domain.com">
-    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <h1 align="center"><a href="https://github.com/zhang-bcxb">✨ 编程细胞 GitHub 首页</a></h1>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet" alt="访问统计"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=大家好，我是编程细胞;欢迎来到我的 GitHub!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="动态介绍">
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue"/>
+  <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/>
+  <a href="https://space.bilibili.com/337439992"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a>
+  <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
+"><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green"/></a>
+</p>
+<br>
 
-### 🛠️ 技术栈
+<img align="right" src="https://moe-counter.glitch.me/get/@:zhang-bcxb?theme=rule34">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+## 🧸 全栈工程师—编程细胞
 
----
+热爱前端、热爱技术。<br>喜欢参与一些开源项目的讨论。
+<br>
 
-### 📈 开源贡献
+### 💞 我的社交统计
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue&locale=cn&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue&locale=cn"/>
-</div>
+[![GitHub统计](https://stats.justsong.cn/api/github?username=zhang-bcxb&theme=dark&lang=zh-CN)](https://github.com/zhang-bcxb)
+[![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=zh-CN)](https://space.bilibili.com/337439992)
+<br>
 
----
+### 🍭 GitHub 开源项目
 
-### 🎯 近期动态
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/50-Case-Studies)
+[![2](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
+[![3](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=react-study&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/react-study)
+[![4](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
+<br>
 
-<!--START_SECTION:activity-->
-1. 🎉 合并 PR [#42] 到 [yourusername/仓库]
-2. 🚀 发布 [yourusername/仓库] v1.0.0 版本
-3. 💪 在 [otheruser/仓库] 提交 PR [#35]
-4. 🛠️ 创建 [yourusername/仓库] 的 feature/new-auth 分支
-<!--END_SECTION:activity-->
+### 🔥 GitHub 活跃度
 
----
+![zhang-bcxb's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhang-bcxb&custom_title=编程细胞的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-bcxb&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![](https://github-readme-activity-graph.vercel.app/graph?username=zhang-bcxb&theme=dracula&custom_title=编程细胞的心电图&radius=10)
+<br>
 
-### 🚀 精选项目
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>智能监控系统</h3>
-      <a href="https://github.com/yourusername/iot-monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=iot-monitor&theme=vue" />
-      </a>
-      <p>基于Spring Cloud的分布式物联网监控平台</p>
-    </td>
-    <td width="50%">
-      <h3>低代码平台</h3>
-      <a href="https://github.com/yourusername/lowcode-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=lowcode-platform&theme=vue" />
-      </a>
-      <p>可视化React低代码开发解决方案</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌐 技术社区
-
-[![知乎](https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/yourID)
-[![CSDN](https://img.shields.io/badge/CSDN-EA4335?style=for-the-badge)](https://blog.csdn.net/yourID)
-[![哔哩哔哩](https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/yourID)
-
----
+<details>
+  <summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
+  <img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%">
+  <img align="center" src="img/支付宝.jpg" alt="支付宝赞赏" width="30%">
+</details>
